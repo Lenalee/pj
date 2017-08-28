@@ -1,6 +1,6 @@
 # pj
 
-> A Vue.js project
+Vue explorations.
 
 ## Build Setup
 
